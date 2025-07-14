@@ -1,0 +1,5 @@
+train: D:\projects\new_shop_model\SKU110K_fixed\train
+val: D:\projects\new_shop_model\SKU110K_fixed\val
+
+nc: 1
+names: ['item']
